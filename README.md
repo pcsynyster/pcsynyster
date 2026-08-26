@@ -7,22 +7,22 @@
 
 # About Me
 
-- 🚀 Building scalable backend architectures with **TypeScript, Node.js, Bun and Java**
-- 🛡️ Focused on financial integrity, concurrency control (locks), idempotency, and database performance
-- 💼 Built a business catalog website with WhatsApp checkout for a real client (MV LEDs)
-- 📚 Continuous learner of SQL, clean architecture, and system design best practices
+-  Building scalable backend architectures with **TypeScript, Node.js, Bun and Java**
+-  Focused on financial integrity, concurrency control (locks), idempotency, and database performance
+-  Built a business catalog website with WhatsApp checkout for a real client (MV LEDs)
+-  Continuous learner of SQL, clean architecture, and system design best practices
 - 🐧 Daily Linux (Ubuntu) user
 
 ---
 
 # Featured Projects
 
-**🎰 (iGaming Backend)](https://github.com/pcsynyster/projeto-igaming)**  
+**🎰 (iGaming Backend)**  
 High-performance transactional engine focused on strict data integrity, pessimistic locking (`SELECT FOR UPDATE`) to eliminate race conditions, canonical SHA-256 idempotency, and an auditable ledger with real-time balance reconciliation.  
 **Stack:** TypeScript, Bun, PostgreSQL, MikroORM, Docker  
 📁 Repository: [`projeto-igaming`](https://github.com/pcsynyster/projeto-igaming)
 
-**🛒 [MV LEDs](https://github.com/pcsynyster/MVLEDS)**  
+**🛒 [MV LEDs]**  
 Business/catalog website for an automotive lighting store, with a shopping cart that checks out via WhatsApp.  
 **Stack:** HTML, CSS, Vanilla JavaScript  
 🔗 [View live site](https://pcsynyster.github.io/MVLEDS/)
