@@ -16,6 +16,10 @@
 
 # Featured Projects
 
+**🎰(iGaming Backend)**
+High-performance transactional engine focused on strict data integrity, pessimistic locking (SELECT FOR UPDATE) to eliminate race conditions, canonical SHA-256 idempotency, and an auditable ledger with real-time balance reconciliation. Stack: TypeScript, Bun, PostgreSQL, MikroORM and Docker.
+📁 Repository: projeto-igaming
+
 **🛒 [MV LEDs](https://github.com/pcsynyster/MVLEDS)**
 Business/catalog website for an automotive lighting store, with a shopping cart that checks out via WhatsApp. Stack: HTML, CSS and vanilla JavaScript.
 🔗 [View live site](https://pcsynyster.github.io/MVLEDS/)
