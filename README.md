@@ -51,6 +51,17 @@ Project to practice functions, string manipulation and random numbers.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 🛡️ Cibersegurança 
+
+### 🎓 **Foundations of Cybersecurity — Google**
+- **Emissão:** Agosto de 2026
+- **Credencial:** [Verificar Certificado](https://coursera.org/verify/XWUMPINVKEYD)
+
+#### **Competências e Tópicos Abordados:**
+- **Análise & Defesa:** Cyber Attacks, Network Analysis, SIEM (Security Information and Event Management)
+- **Governança & Riscos:** Cyber Risk, Security Controls, Security Management & Strategy
+- **Ética & Compliance:** Data Ethics, Information Assurance
+
 ---
 
 # 📫 Contact
