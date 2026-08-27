@@ -70,8 +70,8 @@ Tool developed to practice core algorithms, string manipulation, and cryptograph
 - **Key Competencies:** Network Analysis, SIEM, Security Controls, Cyber Attacks, Cyber Risk & Mitigation, Data Ethics, Information Assurance.
 
 ### **Software Types and Models & Requirements Engineering** 
-- **Issued:** August 2026[cite: 1]
-- **Credential Code:** `QXTM9A28IZ6B`[cite: 1]
+- **Issued:** August 2026
+- **Credential Code:** `QXTM9A28IZ6B`
 - **Key Competencies:** Requirements Engineering, Software Modeling, Systems Analysis, SDLC.
 
 ---
