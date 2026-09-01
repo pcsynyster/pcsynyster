@@ -25,7 +25,7 @@ High-performance transactional backend engine focused on strict data integrity, 
 **🛒 MV LEDs**  
 Business catalog website for an automotive lighting store featuring a dynamic shopping cart and direct WhatsApp checkout.  
 **Stack:** HTML5, CSS3, JavaScript  
-🔗 [View live site][  (https://mvleds.com.br))
+🔗  (https://mvleds.com.br)
 
 **✅ To-Do List (Web + Java)**  
 Task management app with filtering and persistence (CRUD). Available in Web (HTML/CSS/JS) and Java (Console + JSON persistence).  
