@@ -1,4 +1,3 @@
-# Olá, eu sou o Luis
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor Full-stack.
 
@@ -29,12 +28,12 @@ Quer um site para o seu negócio? Fale comigo pelo LinkedIn ou por e-mail (links
 **MV LEDs**  
 Site catálogo para uma loja de iluminação automotiva, com carrinho de compras dinâmico e finalização do pedido direto pelo WhatsApp.  
 **Stack:** HTML5, CSS3, JavaScript  
-Site: [mvleds.com.br](https://mvleds.com.br)
+[mvleds.com.br](https://mvleds.com.br)
 
 **Marrada Sport Club**  
 Site para um complexo esportivo e de eventos em Parnamirim-RN, com apresentação da infraestrutura (quadras, salão de festas e churrasqueiras), pré-reserva de quadras e reserva de espaços com escolha de data, e envio da solicitação direto para o WhatsApp do cliente. Layout pensado para celular.  
 **Stack:** HTML5, CSS3, JavaScript, Tailwind CSS
-Site> [marradasportclub.com.br](https://marradasportclub.com.br)
+[marradasportclub.com.br](https://marradasportclub.com.br)
 
 ---
 
