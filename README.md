@@ -1,10 +1,6 @@
 # Luis Bezerra | Desenvolvedor Full-stack & Web 
 
-> Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco na criação de soluções digitais de alto impacto, performance e segurança.
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5584991421656?text=Ol%C3%A1!%20Vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20falar%20sobre%20um%20projeto.)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pcsynyster)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luiisbezerr@gmail.com)
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco na criação de soluções digitais.
 
 ---
 
