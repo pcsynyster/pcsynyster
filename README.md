@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcsynyster&theme=github-compact&hide_border=true" alt="Gráfico de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pcsynyster&hide_border=true" alt="Sequência de contribuições" />
+</p>
+
 # Luis Bezerra | Desenvolvedor Full-stack & Web 
 
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco na criação de soluções digitais.
