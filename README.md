@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Luis%20Bezerra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=58" alt="Cabeçalho" />
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" width="100%" />
 </p>
 
