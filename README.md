@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Criação+de+sites+profissionais;JavaScript+%7C+Java+%7C+SQL;Transformando+ideias+em+código" alt="Texto digitando" />
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" width="100%" />
 </p>
 
