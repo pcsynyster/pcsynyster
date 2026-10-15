@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcsynyster&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcsynyster&theme=github-compact&hide_border=true" alt="Gráfico de contribuições" />
 </p>
 
