@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" width="100%" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="Contribuições" width="100%" />
 </p>
-
 # Luis Bezerra | Desenvolvedor Full-stack & Web 
 
 > Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco na criação de soluções digitais.
