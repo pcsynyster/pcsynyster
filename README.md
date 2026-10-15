@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcsynyster&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribuições" alt="Gráfico de contribuições" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Luis%20Bezerra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=58" alt="Cabeçalho" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pcsynyster&theme=github-compact&hide_border=true" alt="Gráfico de contribuições" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Criação+de+sites+profissionais;JavaScript+%7C+Java+%7C+SQL;Transformando+ideias+em+código" alt="Texto digitando" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pcsynyster&hide_border=true" alt="Sequência de contribuições" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" width="100%" />
 </p>
 
 # Luis Bezerra | Desenvolvedor Full-stack & Web 
