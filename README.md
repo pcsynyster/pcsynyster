@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea44f/pcsynyster" alt="Contribuições" width="100%" />
-</p> 
 
 # Luis Bezerra | Desenvolvedor Full-stack & Web 
 
