@@ -25,12 +25,27 @@
 
 ##  Projetos em destaque
 
-### 🛒 [MV LEDs](https://mvleds.com.br)
+### [Synex Sistemas](https://synexsistemas.com.br)
+Site oficial da minha marca de sistemas e soluções web sob medida: sites, landing pages, catálogos com pedido no WhatsApp e atendente de WhatsApp com IA para restaurantes.
+- **Stack:** HTML5, CSS3, JavaScript, Supabase
+- **Status:** Produção
+
+### [BS Fitness](https://lojabsfitness.com.br)
+Loja virtual de moda fitness feminina em Parnamirim-RN, com carrinho de compras e painel com login para a dona cadastrar e gerenciar os produtos.
+- **Stack:** HTML5, CSS3, JavaScript, Supabase
+- **Status:** Produção
+
+### [Isabelle Bezerra | Psicóloga](https://isabellebezerra.psc.br)
+Site profissional para psicóloga com atendimento presencial e online, carrossel de atendimentos com contato direto pelo WhatsApp, venda de guia digital e seção de saúde mental corporativa.
+- **Stack:** HTML5, CSS3, JavaScript
+- **Status:** Produção
+
+### [MV LEDs](https://mvleds.com.br)
 Site catálogo voltado para iluminação automotiva, contando com carrinho dinâmico e checkout ágil integrado ao WhatsApp.
 - **Stack:** HTML5, CSS3, JavaScript
 - **Status:** Produção
 
-### 🏟️ [Marrada Sport Club](https://marradasportclub.com.br)
+### [Marrada Sport Club](https://marradasportclub.com.br)
 Plataforma institucional para complexo esportivo e de eventos em Parnamirim-RN. Conta com vitrine de infraestrutura (quadras, salão e churrasqueiras), sistema de pré-reserva de datas e envio de propostas direto para o WhatsApp.
 - **Stack:** HTML5, CSS3, JavaScript, Tailwind CSS
 - **Status:** Produção
@@ -40,6 +55,7 @@ Plataforma institucional para complexo esportivo e de eventos em Parnamirim-RN. 
 ## 🛠️ Habilidades e tecnologias
 
 ### Back-end & Banco de Dados
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -53,6 +69,7 @@ Plataforma institucional para complexo esportivo e de eventos em Parnamirim-RN. 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Cibersegurança & Fundamentos
